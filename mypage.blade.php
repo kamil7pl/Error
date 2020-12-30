@@ -63,17 +63,17 @@
                     <a class="dropdown-item" href="#">Installing Laravel</a>
                   </div>
 
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTwo" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownThree" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Python
                   </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdownTwo">
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownThree">
                     <a class="dropdown-item" href="#">Introduction Python</a>
                     <a class="dropdown-item" href="#">Installing Python</a>
                   </div>
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownThree" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFour" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Java
                   </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdownThree">
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownFour">
                     <a class="dropdown-item" href="#">Introduction Java</a>
                     <a class="dropdown-item" href="#">Installing Java</a>
                   </div>
